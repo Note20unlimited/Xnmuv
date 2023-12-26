@@ -3,7 +3,7 @@
   "author": "by Siamlink",
   "info": "",
   "image": "https://avsubthai.me/avsubthai.png",
-	"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/avsubthai_jav.w3u",
+	"url": "https://raw.githubusercontent.com/Note20unlimited/Xnmuv/main/avsubthai_jav.w3u.txt",
  "parental": "true",
   "stations": [
     {
