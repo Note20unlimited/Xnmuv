@@ -1,6 +1,6 @@
 {
   "name": "AV SubThai",
-  "author": "อุ๋ง อุ๋ง",
+  "author": "by Siamlink",
   "info": "",
   "image": "https://avsubthai.me/avsubthai.png",
 	"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/avsubthai_jav.w3u",
