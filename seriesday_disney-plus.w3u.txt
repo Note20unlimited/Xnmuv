@@ -1,8 +1,8 @@
 {
- "name": "DISNEY PLUS",
- "author": "แนนนี่",
- "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
- "image": "https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
+ "name": "ซีรี่ย์ by Siamlink",
+ "author": "คิดถึงจัง",
+ "info": "รัชชานนท์ 0960123300",
+ "image": "https://www.pandasecurity.com/en/mediacenter/src/uploads/2019/07/pandasecurity-How-do-hackers-pick-their-targets.jpg",
  "groups": [
   {
    "name": "Arthdal Chronicles Season 2 (2023)",
