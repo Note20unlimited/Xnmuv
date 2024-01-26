@@ -33,21 +33,21 @@
 	"import":"true"
   },
   {
-	"name":"🦭การ์ตูน🐒", 
+	"name":"รวม1", 
 	"image":"https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
-	"url":"https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/7-11/7-11/การ์ตูน/การ์ตูน.txt",
+	"url":"https://raw.githubusercontent.com/Note20unlimited/Xnmuv/main/avple_%E0%B8%9E%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3.m3u",
 	"import":"true"
   },
   {
-	"name":"🦭123-HD🐒", 
+	"name"รวม 2", 
 	"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url":"https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/7-11/7-11/web/123HD/123hd.txt",
+	"url":"https://raw.githubusercontent.com/Note20unlimited/Xnmuv/main/avple_%E0%B8%A3%E0%B8%A7%E0%B8%A1.m3u",
 	"import":"true"
   },
   {
-	"name":"🦭Dooseries4k🐒", 
+	"name":"เทสระบบ", 
 	"image":"https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/7-11/7-11/web/DooSeries4K/รวม.txt",
+	"url": "https://github.com/Note20unlimited/Xnmuv",
 	"import":"true"
   },
   {
