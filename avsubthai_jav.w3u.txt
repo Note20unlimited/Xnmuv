@@ -1,8 +1,8 @@
 {
   "name": "เอวีแปลไทย",
   "author": "รัชชานนท์ Siamlink",
-  "info": "",
-  "image": "https://avsubthai.me/avsubthai.png",
+  "info": "กำลังออนไลน์",
+  "image": "https://www.pandasecurity.com/en/mediacenter/src/uploads/2019/07/pandasecurity-How-do-hackers-pick-their-targets.jpg",
 	"url": "https://raw.githubusercontent.com/Note20unlimited/Xnmuv/main/avsubthai_jav.w3u.txt",
  "parental": "true",
   "stations": [
